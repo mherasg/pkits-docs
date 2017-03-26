@@ -1,8 +1,8 @@
 # pkits-docs
 Deliverables from PKITS project: Public Key Infrastructure with Time-Stamping Authority
-ETS PROJECT: 23.192
-
-
+<br/>
+<p>ETS PROJECT: 23.192</p>
+<p></p>
 <p>D3: Architecture of Time-Stamping Service and Scenarios of Use: Services and Features</p>
 <p>D4: Time-Stamping Service Functional Specification and Protocols for Unstructured Data</p>
 <p>D5: Time-Stamping Service Functional Specification and Protocols for Structured Data: EDI Documents</p>
